@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Desktop\Variables\bin\Debug\net9.0\Variables.exe
+C:\Users\gabri\OneDrive\Desktop\Variables\bin\Debug\net9.0\Variables.deps.json
+C:\Users\gabri\OneDrive\Desktop\Variables\bin\Debug\net9.0\Variables.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Variables\bin\Debug\net9.0\Variables.dll
+C:\Users\gabri\OneDrive\Desktop\Variables\bin\Debug\net9.0\Variables.pdb
+C:\Users\gabri\OneDrive\Desktop\Variables\obj\Debug\net9.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Variables\obj\Debug\net9.0\Variables.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Variables\obj\Debug\net9.0\Variables.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Variables\obj\Debug\net9.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Variables\obj\Debug\net9.0\Variables.dll
+C:\Users\gabri\OneDrive\Desktop\Variables\obj\Debug\net9.0\refint\Variables.dll
+C:\Users\gabri\OneDrive\Desktop\Variables\obj\Debug\net9.0\Variables.pdb
+C:\Users\gabri\OneDrive\Desktop\Variables\obj\Debug\net9.0\Variables.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Variables\obj\Debug\net9.0\ref\Variables.dll
